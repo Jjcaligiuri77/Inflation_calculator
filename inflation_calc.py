@@ -1,6 +1,6 @@
 from inflation_data import *
 
-print('Input start year, end year (1913-2016) and amount\n or press Enter to quit')
+print('Input start year, end year (1913-2019) and amount\n or press Enter to quit')
 
 for i in iter(input, ''):
     try:
